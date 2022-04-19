@@ -3,6 +3,7 @@ este jeden na remote
 tohle bude konflikt
 konflikt hyr
 prvni radek
+vetev1
 pokus
 git
 posledni radek
