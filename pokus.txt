@@ -9,3 +9,4 @@ pokus
 git
 vetev2
 posledni radek
+tenhle radek uz je spravne
