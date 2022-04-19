@@ -7,4 +7,5 @@ vetev1
 jeste vetev1
 pokus
 git
+vetev2
 posledni radek
