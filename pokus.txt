@@ -4,6 +4,7 @@ tohle bude konflikt
 konflikt hyr
 prvni radek
 vetev1
+jeste vetev1
 pokus
 git
 posledni radek
