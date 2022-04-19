@@ -1,4 +1,5 @@
 tohle bude konflikt
+konflikt hyr
 prvni radek
 pokus
 git
