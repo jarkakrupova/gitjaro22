@@ -1,3 +1,4 @@
+tohle bude konflikt
 prvni radek
 pokus
 git
