@@ -1,4 +1,5 @@
 este jeden na disku
+este jeden na remote
 tohle bude konflikt
 konflikt hyr
 prvni radek
